@@ -1,0 +1,8 @@
+<RCC>
+    <qresource prefix="/shader">
+        <file>triangle.frag</file>
+        <file>triangle.vert</file>
+        <file>cube.vert</file>
+        <file>cube.frag</file>
+    </qresource>
+</RCC>

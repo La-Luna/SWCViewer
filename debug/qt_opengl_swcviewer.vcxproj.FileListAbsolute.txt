@@ -1,0 +1,2 @@
+D:\CPP\qt_opengl_SWCViewer\MeshGenerator\qt_opengl_swcviewer\debug\gl_opengl_swcviewer.exe
+D:\CPP\qt_opengl_SWCViewer\MeshGenerator\qt_opengl_swcviewer\debug\gl_opengl_swcviewer.pdb

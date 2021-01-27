@@ -1,0 +1,2 @@
+﻿  Generate moc_predefs.h
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Microsoft\VC\v160\Microsoft.CppCommon.targets(238,5): error MSB8066: “debug\moc_predefs.h.cbt”的自定义生成已退出，代码为 2。

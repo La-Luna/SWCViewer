@@ -1,0 +1,5 @@
+<RCC>
+    <qresource prefix="/swc">
+        <file>test2.swc</file>
+    </qresource>
+</RCC>
